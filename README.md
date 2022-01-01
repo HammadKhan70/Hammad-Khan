@@ -17,14 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/hammadkhan70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/hammadkhan70" height="30" width="40" /></a>
+<a href="https://dev.to/hammadkhan70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hammadkhan70" height="30" width="40" /></a>
 <a href="https://twitter.com/hammadk717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadk717" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hammad-khan-a00087134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hammad-khan-a00087134/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverﬂow.com/users/13984035/hammad-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverﬂow.com/users/13984035/hammad-khan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/hammadkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/hammadkhan" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hammad.baloch.31521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hammad.baloch.31521" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hammad-khan-a00087134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-khan-a00087134" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13984035/hammad-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13984035/hammad-khan" height="30" width="40" /></a>
+<a href="https://codesandbox.com/hammadkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hammadkhan" height="30" width="40" /></a>
+<a href="https://fb.com/hammad.baloch.31521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammad.baloch.31521" height="30" width="40" /></a>
 <a href="https://instagram.com/hammad_baloch7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammad_baloch7" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/hammadkhan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/hammadkhan7" height="30" width="40" /></a>
+<a href="https://www.behance.net/hammadkhan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hammadkhan7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
