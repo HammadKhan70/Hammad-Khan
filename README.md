@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hammadkhan4017@gmail.com**
 
-- ⚡ Fun fact **I am skill guy**
+- ⚡ Fun fact **Count my Skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
